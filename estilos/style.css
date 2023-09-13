@@ -64,7 +64,7 @@ div#formulario > p {
 form > div.campo {
     background-color: #342836;
     display: block;
-    border: 2px solid 342836;
+    border: 2px solid #342836;
     height: 42px;
     border-radius: 8px;
     width: 100%;
